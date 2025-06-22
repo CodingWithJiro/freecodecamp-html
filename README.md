@@ -32,14 +32,14 @@ This project serves as a learning archive and public showcase. It features a cus
 
 ## 📚 Included Projects
 
-- [**Book Catalog Table**](REPO_LINK) — A semantic table layout for displaying book details
-- [**Checkout Page**](REPO_LINK) — A simulated e-commerce form page
-- [**Recipe Page**](REPO_LINK) — An instructional cooking layout using sections and lists
-- [**Survey Form**](REPO_LINK) — A sample form using labels and inputs with basic validation
-- [**Travel Agency Page**](REPO_LINK) — A promotional landing page layout
-- [**Video Compilation**](REPO_LINK) — A page displaying embedded videos in a structured layout
-- [**Event Hub**](REPO_LINK) — A listing page for fictional events using semantic tags
-- [**Movie Review**](REPO_LINK) — A static review page of _Zootopia (2016)_ with metadata and cast list
+- [**Book Catalog Table**](https://github.com/CodingWithJiro/freecodecamp-html-book-catalog-table) — A semantic table layout for displaying book details
+- [**Checkout Page**](https://github.com/CodingWithJiro/freecodecamp-html-checkout-page) — A simulated e-commerce form page
+- [**Recipe Page**](https://github.com/CodingWithJiro/freecodecamp-html-recipe-page) — An instructional cooking layout using sections and lists
+- [**Survey Form**](https://github.com/CodingWithJiro/freecodecamp-html-survey-form) — A sample form using labels and inputs with basic validation
+- [**Travel Agency Page**](https://github.com/CodingWithJiro/freecodecamp-html-travel-agency-page) — A promotional landing page layout
+- [**Video Compilation**](https://github.com/CodingWithJiro/freecodecamp-html-video-compilation-page) — A page displaying embedded videos in a structured layout
+- [**Event Hub**](https://github.com/CodingWithJiro/freecodecamp-html-event-hub-page) — A listing page for fictional events using semantic tags
+- [**Movie Review**](https://github.com/CodingWithJiro/freecodecamp-html-movie-review-page) — A static review page of _Zootopia (2016)_ with metadata and cast list
 
 ---
 
