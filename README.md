@@ -12,6 +12,7 @@
 ![Mobile First](https://img.shields.io/badge/Mobile--First-Design-orange?style=for-the-badge)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd261081-553e-41e2-a7d4-4ab0d07798c5/deploy-status)](https://html-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 
@@ -19,7 +20,7 @@
 
 ![Screenshot of the project](./screenshot.png)
 
-This website is a curated collection of **8 beginner-friendly HTML5 projects**, created by the author during his **first month of learning frontend web development** in [freeCodeCamp.com](https://www.freecodecamp.org/) under their HTML5 free course.
+This website is a curated collection of **8 beginner-friendly HTML5 projects**, created by the author during his **first month of learning frontend web development** in [freeCodeCamp.org](https://www.freecodecamp.org/) under their HTML5 free course.
 
 ---
 
@@ -70,7 +71,7 @@ This project serves as a learning archive and public showcase. It features a cus
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](SITE_LINK)
+Or you can check out the 👉 [live website here](https://html-fcc-jiro.netlify.app/)
 
 ---
 
