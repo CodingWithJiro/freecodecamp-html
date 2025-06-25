@@ -18,7 +18,9 @@
 
 ## ℹ️ My HTML5 freeCodeCamp Projects Compilation Website
 
-![Screenshot of the project](./screenshot.png)
+| _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
+| ------------------------------------------------ | --------------------------------------------------- |
+| ![Mobile](./img/site-preview-mobile_375x812.png) | ![Desktop](./img/site-preview-desktop_1440x960.png) |
 
 This website is a curated collection of **8 beginner-friendly HTML5 projects**, created by the author during his **first month of learning frontend web development** in [freeCodeCamp.org](https://www.freecodecamp.org/) under their HTML5 free course.
 
