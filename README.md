@@ -15,6 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bd261081-553e-41e2-a7d4-4ab0d07798c5/deploy-status)](https://html-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html&left_text=repo%20views)
 
 ## ℹ️ My HTML5 freeCodeCamp Projects Compilation Website
 
